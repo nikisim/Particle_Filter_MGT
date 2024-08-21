@@ -17,6 +17,6 @@ Here's a visual demonstration of the Particle Filter in action:
 To run the code, clone this repository and execute the main script:
 
 ```bash
-git clone https://github.com/yourusername/particle-filter-bicycle-model.git
-cd particle-filter-bicycle-model
+git clone https://github.com/nikisim/Particle_Filter_MGT.git
+cd Particle_Filter_MGT
 python main.py
