@@ -1,6 +1,5 @@
 import math
 import random
-import numpy as np
 
 def normalize_angle(angle):
     """
