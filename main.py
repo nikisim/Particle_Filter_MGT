@@ -108,7 +108,7 @@ if __name__ == '__main__':
 
         robot_est_pos = [x_est, y_est, theta_est]
 
-        print("Robot noise state:", robot.x, robot.y, robot.theta)
+        print("Robot state:", robot.x, robot.y, robot.theta)
         print("Robot estimated state:", robot_est_pos[0], robot_est_pos[1], robot_est_pos[2])
 
     plt.ioff()

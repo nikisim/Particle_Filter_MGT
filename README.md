@@ -20,3 +20,6 @@ To run the code, clone this repository and execute the main script:
 git clone https://github.com/nikisim/Particle_Filter_MGT.git
 cd Particle_Filter_MGT
 python main.py
+```
+
+Also in command line you will see true state of the robot ("Robot state") and estimated robot state ("Robot estimated state") at each iteration.
